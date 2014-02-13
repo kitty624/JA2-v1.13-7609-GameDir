@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TAUNTS>
+  <TAUNT>
+	<uiIndex>0</uiIndex><!-- 406 -->
+	<szText>OK, I think it's pretty safe to assume he's dead.</szText>
+	<head_pop>1</head_pop>
+	<defensive>1</defensive>
+	<target_male>1</target_male>
+  </TAUNT>
+  <TAUNT>
+	<uiIndex>1</uiIndex><!-- 407-->
+	<szText>OK, I think it's pretty safe to assume she's dead.</szText>
+	<head_pop>1</head_pop>
+	<defensive>1</defensive>
+	<target_female>1</target_female>
+  </TAUNT>
+  <TAUNT>
+	<uiIndex>2</uiIndex><!-- 410 -->
+	<szText>I think I'll skip a lunch today.</szText>
+	<defensive>1</defensive>
+	<head_pop>1</head_pop>
+  </TAUNT>
+  <TAUNT>
+	<uiIndex>3</uiIndex><!-- 411 -->
+	<szText>Hahaha! Fucking awesome!</szText>
+	<szTextCensored>Hahaha! Freaking awesome!</szTextCensored>
+	<aggressive>1</aggressive>
+	<head_pop>1</head_pop>
+  </TAUNT>
+  <TAUNT>
+	<uiIndex>4</uiIndex><!-- 412 -->
+	<szText>Fuck yeah! I love this job!</szText>
+	<szTextCensored>Hell yeah! I love this job!</szTextCensored>
+	<aggressive>1</aggressive>
+	<head_pop>1</head_pop>
+  </TAUNT>
+  <TAUNT>
+	<uiIndex>5</uiIndex><!-- 413 -->
+	<szText>It's OK, you weren't using it anyway.</szText>
+	<brave>1</brave>
+	<head_pop>1</head_pop>
+  </TAUNT>
+  <TAUNT>
+	<uiIndex>6</uiIndex><!-- 414 -->
+	<szText>Boom, head shot!</szText>
+	<head_pop>1</head_pop>
+  </TAUNT>
+  <TAUNT>
+	<uiIndex>7</uiIndex><!-- 414 -->
+	<szText>Wow!</szText>
+	<head_pop>1</head_pop>
+  </TAUNT>
+  <TAUNT>
+	<uiIndex>8</uiIndex><!-- 416 -->
+	<szText>Mind blown!</szText>
+	<head_pop>1</head_pop>
+  </TAUNT>
+  <TAUNT>
+	<uiIndex>9</uiIndex><!-- 417 -->
+	<szText>I wasn't even trying.</szText>
+	<head_pop>1</head_pop>
+	<brave>1</brave>
+  </TAUNT>
+  <TAUNT>
+	<uiIndex>10</uiIndex><!-- 418 -->
+	<szText>Did somebody take a picture?</szText>
+	<head_pop>1</head_pop>
+	<brave>1</brave>
+  </TAUNT>
+  <TAUNT>
+	<uiIndex>11</uiIndex><!-- 419 -->
+	<szText>Pop goes the zit!</szText>
+	<head_pop>1</head_pop>
+  </TAUNT>
+  <TAUNT>
+	<uiIndex>12</uiIndex><!-- 566 -->
+	<szText>Somebody call an ambulance!</szText>
+	<cunning>1</cunning>
+	<head_pop>1</head_pop>
+  </TAUNT>   
+  <TAUNT>
+	<uiIndex>13</uiIndex>
+	<szText>Does it mean I can read minds now?</szText>
+	<cunning>1</cunning>
+	<head_pop>1</head_pop>
+  </TAUNT>	
+</TAUNTS>

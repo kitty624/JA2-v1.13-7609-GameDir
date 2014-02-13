@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TAUNTS>
+  <TAUNT>
+	<uiIndex>0</uiIndex><!-- 104 -->
+	<szText>Catch!</szText>
+	<throw_knife>1</throw_knife>
+	<throw_grenade>1</throw_grenade>
+  </TAUNT>
+  <TAUNT>
+	<uiIndex>1</uiIndex><!-- 105 -->
+	<szText>Here ya go!</szText>
+	<throw_knife>1</throw_knife>
+	<throw_grenade>1</throw_grenade>
+  </TAUNT>
+  <TAUNT>
+	<uiIndex>2</uiIndex><!-- 106 -->
+	<szText>Pop goes the weasel.</szText>
+	<throw_knife>1</throw_knife>
+	<throw_grenade>1</throw_grenade>
+  </TAUNT>
+  <TAUNT>
+	<uiIndex>3</uiIndex><!-- 107 -->
+	<szText>This one's for you.</szText>
+	<throw_knife>1</throw_knife>
+	<throw_grenade>1</throw_grenade>
+  </TAUNT>
+  <TAUNT>
+	<uiIndex>4</uiIndex><!-- 108 -->
+	<szText>Muahaha!</szText>
+	<throw_knife>1</throw_knife>
+	<throw_grenade>1</throw_grenade>
+	<aggressive>1</aggressive>
+  </TAUNT>
+  <TAUNT>
+	<uiIndex>5</uiIndex><!-- 109 -->
+	<szText>Catch this, swine!</szText>
+	<throw_knife>1</throw_knife>
+	<throw_grenade>1</throw_grenade>
+	<aggressive>1</aggressive>
+  </TAUNT>
+	<TAUNT>
+	<uiIndex>6</uiIndex><!-- 111 -->
+	<szText>Snack on that!</szText>
+	<throw_knife>1</throw_knife>
+	<throw_grenade>1</throw_grenade>
+  </TAUNT>
+	<TAUNT>
+	<uiIndex>7</uiIndex><!-- 112 -->
+	<szText>How 'bout some acupuncture?</szText>
+	<throw_knife>1</throw_knife>
+	<cunning>1</cunning>
+  </TAUNT>
+	<TAUNT>
+	<uiIndex>8</uiIndex><!-- 114 -->
+	<szText>Here's a token of my gratitude!</szText>
+	<throw_knife>1</throw_knife>
+	<throw_grenade>1</throw_grenade>
+	<cunning>1</cunning>
+  </TAUNT>
+	<TAUNT>
+	<uiIndex>9</uiIndex><!-- 115 -->
+	<szText>Do you like shiny things?</szText>
+	<throw_knife>1</throw_knife>
+	<cunning>1</cunning>
+  </TAUNT>
+	<TAUNT>
+	<uiIndex>10</uiIndex><!-- 116 -->
+	<szText>Here, keep it!</szText>
+	<throw_knife>1</throw_knife>
+	<throw_grenade>1</throw_grenade>
+  </TAUNT>
+  <TAUNT>
+	<uiIndex>11</uiIndex><!-- 117 -->
+	<szText>No returns!</szText>
+	<throw_knife>1</throw_knife>
+	<throw_grenade>1</throw_grenade>
+  </TAUNT>
+  <TAUNT>
+	<uiIndex>12</uiIndex><!-- 121 -->
+	<szText>Have more where it came from!</szText>
+	<throw_knife>1</throw_knife>
+	<throw_grenade>1</throw_grenade>
+	<brave>1</brave>
+  </TAUNT>
+	<TAUNT>
+	<uiIndex>13</uiIndex><!-- 473 -->
+	<szText>Jerk on this, you cocky shit licker!</szText>
+	<szTextCensored>Jerk on this, you cocky bastard!</szTextCensored>
+	<throw_knife>1</throw_knife>
+	<throw_grenade>1</throw_grenade>
+	<aggressive>1</aggressive>
+  </TAUNT>
+  <TAUNT>
+	<uiIndex>14</uiIndex><!-- 477 -->
+	<szText>Take this, you maggot!</szText>
+	<attack>1</attack>
+	<throw_knife>1</throw_knife>
+	<throw_grenade>1</throw_grenade>
+  </TAUNT>
+  <TAUNT>
+	<uiIndex>15</uiIndex> <!-- inexistant -->
+	<szText>It's Christmas! And you've been VERY naughty!</szText>
+	<throw_grenade>1</throw_grenade>
+	<cunning>1</cunning>
+  </TAUNT>  
+  <TAUNT>
+	<uiIndex>16</uiIndex> <!-- inexistant -->
+	<szText>Choke on this!</szText>
+	<throw_grenade>1</throw_grenade>
+  </TAUNT>
+  <TAUNT>
+	<uiIndex>17</uiIndex> <!-- inexistant -->
+	<szText>Incoming!</szText>
+	<throw_grenade>1</throw_grenade>
+	<defensive>1</defensive>
+  </TAUNT> 
+  <TAUNT>
+	<uiIndex>18</uiIndex> <!-- inexistant -->
+	<szText>Take cover!</szText>
+	<throw_grenade>1</throw_grenade>
+	<defensive>1</defensive>
+  </TAUNT>
+	<TAUNT>
+	<uiIndex>19</uiIndex> <!-- inexistant -->
+	<szText>Grenade!</szText>
+	<throw_grenade>1</throw_grenade>
+  </TAUNT>
+	<TAUNT>
+	<uiIndex>20</uiIndex> <!-- inexistant -->
+	<szText>Fire in the hole!</szText>
+	<throw_grenade>1</throw_grenade>
+	<brave>1</brave>
+  </TAUNT>
+   <TAUNT>
+	<uiIndex>21</uiIndex> <!-- inexistant -->
+	<szText>Somebody's gonna get hurt. It ain't gonna be me!</szText>
+	<throw_grenade>1</throw_grenade>
+	<brave>1</brave>
+  </TAUNT> 
+  <TAUNT>
+	<uiIndex>22</uiIndex> <!-- inexistant -->
+	<szText>Your life is over, asshole!</szText>
+	<throw_grenade>1</throw_grenade>
+  </TAUNT>  
+  <TAUNT>
+	<uiIndex>23</uiIndex> <!-- inexistant -->
+	<szText>Shit, for a moment I thought I threw a pin...</szText>
+	<throw_grenade>1</throw_grenade>
+	<cunning>1</cunning>
+  </TAUNT>  
+  <TAUNT>
+	<uiIndex>24</uiIndex> <!-- inexistant -->
+	<szText>Someone hold my beer and watch this!</szText>
+	<throw_grenade>1</throw_grenade>
+	<brave>1</brave>
+  </TAUNT>
+  <TAUNT>
+	<uiIndex>25</uiIndex> <!-- inexistant -->
+	<szText>Special offer! Two in price of one!</szText>
+	<throw_knife>1</throw_knife>
+	<throw_grenade>1</throw_grenade>
+	<cunning>1</cunning>
+  </TAUNT>
+  <TAUNT>
+	<uiIndex>26</uiIndex> <!-- inexistant -->
+	<szText>Special delivery!</szText>
+	<throw_knife>1</throw_knife>
+	<throw_grenade>1</throw_grenade>
+	<cunning>1</cunning>
+  </TAUNT>
+  <TAUNT>
+	<uiIndex>27</uiIndex>
+	<szText>Here's a free sample of our products, sir!</szText>
+	<throw_knife>1</throw_knife>
+	<throw_grenade>1</throw_grenade>
+	<cunning>1</cunning>
+  </TAUNT>  
+</TAUNTS>
