@@ -1,4 +1,4 @@
-# 7609-GameDir
+# JA2v1.13-7609-GameDir
 
 - GameDir for JA2 v1.13 7609 (a.k.a. "stable 2014") (migrated from SVN on 12.11.2022)
 
