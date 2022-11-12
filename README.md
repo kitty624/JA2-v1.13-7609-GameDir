@@ -18,4 +18,4 @@
 
 - it's based on the latest commit before svn to gitHub migration (Oct 27, 2020) and contains all bugfixes up to this date
 
-- of course the SCI also contains the exe, the standard 7609-exe 
+- of course the SCI also contains the exe, the standard 7609-exe (plus UB and MapEditor for 7609)
