@@ -20,4 +20,5 @@
 
 - of course the SCI also contains the exe, the standard 7609-exe 
 
-- if you want the 7609+AI-exe instead check downloads provided by the author sevenfm (see links under his youtube-videos or at russian ja2 forum)
+- if you want the 7609+AI-exe instead check downloads provided by the author sevenfm (see links under his youtube-videos or at russian ja2 forum) 
+  (closed development, won't be on gitHub unless the author himselves decides to do so)
