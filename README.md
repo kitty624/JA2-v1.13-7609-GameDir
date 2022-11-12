@@ -14,7 +14,7 @@
 
 - an already fully assembled version of complete JA2v1.13 7609 [7609 SCI](http://www.mediafire.com/file/12jqupe1q2ksa3b/7609_SCI.7z/file)
 
-- with the SCI there is no need to do any assemble anything yourself, it's ready to go, just copy contents of zip into original JA2 main folder and overwrite
+- with the SCI there is no need to assemble anything yourself, it's ready to go, just copy contents of zip into original JA2 main folder and overwrite
 
 - it's based on the latest commit before svn to gitHub migration (Oct 27, 2020) and contains all bugfixes up to this date
 
